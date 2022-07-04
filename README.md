@@ -9,6 +9,9 @@ I used the JavaScript and the D3.js library to retrieve the coordinates and magn
 
 ## Results 
 A map was created with multiple views and sublayers. 
-![Map View](Images/streetMapLayer.png)
+
+![Map View](Images/streetMap.png)
+
 ![Second Layer](Images/darkMap.png)
-![Third Layer](Images/thirdMapyLayer.png)
+
+![Third Layer](Images/thirdMapLayer.png)
